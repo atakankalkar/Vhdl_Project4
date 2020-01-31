@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\.Xilinx\lab7sequence\top.ncd
+OUTFILE=C:\.Xilinx\lab7sequence\top.bit
+FAMILY=Artix7
+PART=xc7a100t-3csg324
+WORKINGDIR=C:\.Xilinx\lab7sequence
+LICENSE=WebPack
+USER_INFO=211816956_0_0_045

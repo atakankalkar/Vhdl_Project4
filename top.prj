@@ -1,0 +1,2 @@
+vhdl work "../alu/seven_four.vhd"
+vhdl work "top.vhd"
